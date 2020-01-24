@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_9XH6HoLMM3fmkMhZBS8Sk04u00bhfSL9Uf",
     s3: {
         REGION: "eu-central-1",
         BUCKET: "rboiko-notes-app-uploads"
